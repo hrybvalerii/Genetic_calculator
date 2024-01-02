@@ -1,0 +1,6 @@
+BG_COLOR = '#66CDAA'
+
+FONT_NAME = 'Arial'
+MAX_PHEN_LEN = 15
+ALLELES_RANGE = range(2, 5)
+GENE_RANGE = range(1, 5)
